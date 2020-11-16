@@ -1,6 +1,6 @@
 
 /* Programa per a controlar el termo i la piscina a partir de la informació que ve de l'intersor Fronius
-   v2 L'arduino fa molt poca feina, tot ho fa la Raspberry.
+   v2 L'arduino fa molt poca feina, tot ho fa la Raspberry. Prova GitHub
 
    Ordres que accepta:
    - Piscina-ON
